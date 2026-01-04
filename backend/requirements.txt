@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+opencv-python==4.8.0.74
+ultralytics
+easyocr
+numpy<2.0
+torch
+pydantic
+websockets
